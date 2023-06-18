@@ -1,7 +1,5 @@
 clear all
 
-cd /Users/barbaraszomolay/myfiles/MATLAB/CANTIGEN/test/cpl
-
 C=importdata('Reno FLY 9mer.txt');
 
 cd ..
